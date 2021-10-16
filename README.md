@@ -1,4 +1,6 @@
 # Text-Editor
+[Deployed App](https://dry-garden-12108.herokuapp.com/)
+* Please note this was primarily tested in google chrome, for best results please use said browser.
 
 # Description
 
