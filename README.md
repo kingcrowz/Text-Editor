@@ -4,6 +4,7 @@
 
 # Description
 
+This application was designed as a simple way to save notes and edit them as needed, whether you are on or offline.
 
 
 ## Table of Contents
