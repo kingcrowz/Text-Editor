@@ -6,6 +6,7 @@
 
 This application was designed as a simple way to save notes and edit them as needed, whether you are on or offline.
 
+![Screenshot (27)](https://user-images.githubusercontent.com/83981829/137606744-aa2b583a-3e89-4664-a758-a7d70516c50a.png)
 
 ## Table of Contents
 * [Description](#Description)
